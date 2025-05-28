@@ -21,12 +21,12 @@
    ng serve
 5. Navigate to localhost in your browser.
   
-🧰 Technologies Used
-Angular
-TypeScript
-SCSS / CSS
-RxJS
-Angular CLI
+🧰 Technologies Used:
+1. Angular
+2. TypeScript
+3. CSS
+4. RxJS
+5. Angular CLI
 
 Build for Production
 ng build --configuration production
