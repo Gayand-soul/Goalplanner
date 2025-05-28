@@ -1,0 +1,41 @@
+
+
+[
+    {
+      "goalid": 0,
+      "goalname": "Meditation",
+      "description": "Every day 15 minutes",
+      
+    },
+    {
+      "goalid": 1,
+      "goalname": "Study JavaScript",
+      "description": "Every day 3 hours"
+    },
+    {
+      "goalid": 2,
+      "goalname": "Walk",
+      "description": "Every day 30 minutes"
+    },
+    {
+        "goalid": 3,
+        "goalname": "Study React",
+        "description": "Every day 3 hours"
+      },
+      {
+        "goalid": 4,
+        "goalname": "Book reading",
+        "description": "Every day 30 minutes"
+      },
+      {
+        "goalid": 5,
+        "goalname": "Cook, dinner",
+        "description": "Dinner 16 - 18"
+      },
+      {
+        "goalid": 6,
+        "goalname": "listen to podcasts",
+        "description": "30 minutes"
+      }
+]
+  

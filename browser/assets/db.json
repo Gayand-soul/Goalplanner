@@ -1,0 +1,24 @@
+
+{
+    "tasks":
+        [
+            {"id": 1, "task": "Använd Angular Services för att hantera data och API-anrop", "status": "To Do", "goalId": 101},
+            {"id": 2, "task": "Implementera Routing för navigation mellan olika vyer", "status": "To Do", "goalId": 101},
+            {"id": 3, "task": "Använd Reactive Forms med validering för alla formulär", "status": "To Do", "goalId": 101},
+            {"id": 4, "task": "Använd HTTPClient för API-anrop mot db.json ", "status": "To Do", "goalId": 101},
+            {"id": 5, "task": "Använd Signals för asynkrona operationer", "status": "To Do", "goalId": 101},
+            {"id": 6, "task": "Använd minst en custom direktiv och minst en custom pipe", "status": "To Do", "goalId": 101},
+            {"id": 7, "task": "Implementera enhetstester för minst två komponenter och en service", "status": "To Do", "goalId": 101},
+            {"id": 8, "task": "Implementera minst en generisk komponent som kan återanvändas", "status": "To Do", "goalId": 101},
+            {"id": 9, "task": "Använd TypeScript fullt ut med korrekt typning av alla komponenter och services", "status": "To Do", "goalId": 101},
+            {"id": 10, "task": "Projektet ska utvecklas med Angular (använd Angular CLI för att skapa projektet)", "status": "To Do", "goalId": 101},
+            {"id": 11, "task": "Implementera fullt responsiv design med Angular Material", "status": "To Do", "goalId": 101},
+            {"id": 12, "task": "Använd Angular Services för att hantera data och API-anrop", "status": "To Do", "goalId": 101},
+            {"id": 1021, "task": "Lägg till Produktlista,Produktsida till React/ecommerce sidan ", "status": "To Do", "goalId": 102},
+            {"id": 1022, "task": "Lägg till Kundvagn och Orderöversikt ", "status": "To Do", "goalId": 102},
+            {"id": 1023, "task": "Använd funktionella komponenter och Hooks för tillståndshantering och sidoeffekter. ", "status": "To Do", "goalId": 102},
+            {"id": 1024, "task": "Använd React Router för navigering mellan olika sidor/vyer. ", "status": "To Do", "goalId": 102},
+            {"id": 1025, "task": "Från kundvagnen ska användaren kunna gå till en orderöversikt där personliga uppgifter (t.ex. namn och adress) kan läggas till. ", "status": "To Do", "goalId": 102}
+
+        ]
+}
