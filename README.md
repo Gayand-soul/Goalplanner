@@ -21,8 +21,8 @@ Prerequisites
 -Git
 
 Setup:
-1. git clone https://github.com/Gayand-soul/Goalplanner.git
-    cd Goalplanner
+1a. git clone https://github.com/Gayand-soul/Goalplanner.git
+1b. cd Goalplanner
 
 2. Install dependencies: npm install
 3. Run locally: ng serve
